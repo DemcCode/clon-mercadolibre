@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 # Clon de Mercado Libre
 
 Este proyecto es un clon básico de la interfaz de usuario de Mercado Libre, desarrollado con React, TypeScript y Vite.
