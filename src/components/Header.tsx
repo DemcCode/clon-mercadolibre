@@ -55,8 +55,8 @@ const Header: React.FC<HeaderProps> = ({ onSearch }) => {
           </button>
         </div>
         <div className={`md:flex items-center justify-between mt-4 text-sm ${showMobileMenu ? 'block' : 'hidden'}`}>
-          <div className="flex items-center mb-2 md:mb-0">
-            <MapPin size={16} className="mr-1" />
+          <div className="max-w-[150px] flex items-center mb-2 md:mb-0">
+            <MapPin size={28} className="mr-1" />
             <span className="mr-2">Ingresa tu ubicación</span>
           </div>
           <nav className="flex flex-col md:flex-row md:items-center space-y-2 md:space-y-0 md:space-x-4">
